@@ -11,7 +11,8 @@ In this free YouTube playlist, we cover the basics of image processing using MAT
 - Edge detection methods
 - A mini project: Object detection
 
-👉 Watch the full tutorial series here: [https://www.youtube.com/playlist?list=PL8WHfIxTWTXOrB_uvcYQUezaSeR8jS_Iy]
+👉 Watch the full tutorial series here: 
+https://www.youtube.com/playlist?list=PL8WHfIxTWTXOrB_uvcYQUezaSeR8jS_Iy
 ## 📂 Repository Structure
 - `Section1_Introduction/` → Basic example codes
 - `Section2_Reading_Images/` → Reading and displaying RGB/Grayscale images
